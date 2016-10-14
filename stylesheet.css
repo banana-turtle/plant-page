@@ -1,0 +1,18 @@
+*{
+  font-family: sans-serif;
+  background-color: #99ddff;
+}
+div #footer{
+	height: float;
+	width: float;
+	background-color: #000000;
+	border-radius: 5px 5px;
+	margin-top: 200px;
+}
+#small{
+	font-size: 5px
+	color: #0000bb;
+}
+.buffer{
+	height:100px;
+}
