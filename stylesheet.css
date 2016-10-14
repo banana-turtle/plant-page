@@ -1,0 +1,10 @@
+*{
+  font-family: sans-serif;
+  background-color: #99ddff;
+}
+#footer{
+	height: 200px;
+	width: float;
+	background-color: #99dddd;
+	border-radius: 5px 5px;
+}
